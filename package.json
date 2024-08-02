@@ -1,0 +1,27 @@
+{
+  "name": "js-utility-library",
+  "version": "1.0.0",
+  "description": "A JavaScript utility library for common data manipulation and formatting tasks",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/edinzujodev/js-utility-library.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/edinzujodev/js-utility-library/issues"
+  },
+  "homepage": "https://github.com/edinzujodev/js-utility-library#readme",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+  
+}
