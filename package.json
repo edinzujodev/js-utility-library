@@ -22,6 +22,12 @@
   "homepage": "https://github.com/edinzujodev/js-utility-library#readme",
   "devDependencies": {
     "jest": "^29.7.0"
+  },
+  "files": [
+    "index.js",
+    "src"
+  ],
+  "engines": {
+    "node": ">=14"
   }
-  
 }
